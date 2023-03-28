@@ -1,2 +1,3 @@
-# printf
-repo for collaborative alx printf project
+#printf
+repo for collaborative alx printf project between PaulKinugi and GraceKi
+
